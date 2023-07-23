@@ -1,0 +1,90 @@
+{
+	"component":"atx-panel",
+	"id":"entitydetailssection1",
+	"className":"col-xs-12 col-md-12 atx-entitydetailssection print-undefined",
+	"children":[
+		{
+			"component":"atx-cell",
+			"id":"RwyG8OC8",
+			"className":"fcol-xs-12 col-md-12 atx-cell print-undefined",
+			"children": [
+				{
+					"component":"atx-panel",
+					"id":"ceLod0LVZ3S2J8HpjdnjEENT0",
+					"className":"entitygroup-currency-currency col-xs-12 col-md-12 atx-section print-undefined",
+					"children":[
+						{
+							"component":"atx-field-text",
+							"id":"cK78wKQk0RfYIojXamPYzcN",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Code",
+							"style" : { "height": 40, "margin": 12, "borderWidth": 1, "padding": 10}
+						},
+						{
+							"component":"atx-field-text",
+							"id":"cXmKWlgMGRC6I47xAEgZ0Fep",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Category",
+							"style" : { "height": 40, "margin": 12, "borderWidth": 1, "padding": 10}
+						}
+					]
+				},
+				{
+					"component":"atx-panel",
+					"id":"ceLod0LVZ3S2J8HpjdnjEENT02",
+					"className":"entitygroup-currency-currency col-xs-12 col-md-12 atx-section print-undefined",
+					"children":[
+						{
+							"component":"atx-field-text",
+							"id":"cobZKg0Y86toHAJoEdQ2wTb",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Name",
+							"style" : { "height": 40, "margin": 12, "borderWidth": 1, "padding": 10}
+						},
+						{
+							"component":"atx-field-text",
+							"id":"cMQ3nJnBb6iQV1cRzjMqqEPC2c418s0",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Sequence",
+							"style" : { "height": 40, "margin": 12, "borderWidth": 1, "padding": 10}
+						}
+					]
+				},
+				{
+					"component":"atx-panel",
+					"id":"ceLod0LVZ3S2J8HpjdnjEENT02",
+					"className":"entitygroup-currency-currency col-xs-12 col-md-12 atx-section print-undefined",
+					"children":[
+						{
+							"component":"atx-field-text",
+							"id":"cK78wKQk0RfYIojXamPYzcN",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Test1",
+							"style" : { "height": 40, "margin": 12, "borderWidth": 1, "padding": 10}
+						},
+						{
+							"component":"atx-field-text",
+							"id":"cXmKWlgMGRC6I47xAEgZ0Fep2",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Tes2",
+							"style" : { "height": 40, "margin": 12, "borderWidth": 1, "padding": 10}
+						}
+					]
+				},
+				{
+					"component":"atx-cell",
+					"id":"CcV8XlAWb4lTZxU1xqAPjMYtJY",
+					"className":"entitygroup-currency-currency col-xs-12 col-md-12 atx-section print-undefined",
+					"children":[
+						{
+							"component":"atx-button",
+							"id":"CcdGbl5Po1lh1RtXand6PEDheA",
+							"className":"col-xs-12 col-md-6 atx-field print-undefined",
+							"children":"Save"
+						}
+					]
+				}
+			]
+		}
+	]
+}
